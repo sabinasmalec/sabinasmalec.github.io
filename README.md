@@ -6,4 +6,4 @@ Technologies: VueJs Cli
 
 Repo: https://github.com/sabinasmalec/portfolio_src
 
-Live: sabinasmalec.github.io 
+Live: https://sabinasmalec.github.io 
